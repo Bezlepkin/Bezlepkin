@@ -9,6 +9,8 @@
 
 I use the following tools: Angular, NativeScript, NodeJs, NestJs, Vue. You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][1.2]][2].
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 
 <!-- icons without padding -->
 [1.1]: https://i.imgur.com/yuWnkMx.png

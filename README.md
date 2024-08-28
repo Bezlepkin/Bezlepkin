@@ -19,3 +19,9 @@ I use the following tools: Angular, NativeScript, NodeJs, NestJs, Vue. You can f
 <!-- links to your social media accounts -->
 [1]: https://twitter.com/Bezlepkin
 [2]: https://www.linkedin.com/in/igor-bezlepkin
+
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Bezlepkin&label=PROFILE+VIEWS&style=flat&color=orange">
+</details>

@@ -9,7 +9,7 @@
 
 I use the following tools: Angular, NativeScript, NodeJs, NestJs, Vue. You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][1.2]][2].
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Bezlepkin&theme=radical)](https://git.io/streak-stats)
 
 
 <!-- icons without padding -->
@@ -25,3 +25,6 @@ I use the following tools: Angular, NativeScript, NodeJs, NestJs, Vue. You can f
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Bezlepkin&label=PROFILE+VIEWS&style=flat&color=orange">
 </details>
+
+![Shiv19's GitHub stats (Public only)](https://github-readme-stats.vercel.app/api?username=bezlepkin&show_icons=true&theme=radical&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bezlepkin&layout=compact&theme=radical)

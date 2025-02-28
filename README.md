@@ -7,7 +7,7 @@
   <li>Constantly in the process of learning code, architecture and etc...</li>
 </ul>
 
-I use the following tools: Angular, NativeScript, NodeJs, NestJs, Vue. You can find me on [<img  width="12px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />](https://twitter.com/Bezlepkin),  or on [![LinkedIn][1.2]][2].
+I use the following tools: Angular, NativeScript, NodeJs, NestJs, Vue and of course php with SlimPHP. You can find me on [<img  width="12px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />](https://twitter.com/Bezlepkin),  or on [![LinkedIn][1.2]][2].
 
 <!-- profile views counter -->
 <img src="https://komarev.com/ghpvc/?username=Bezlepkin&label=PROFILE+VIEWS&style=flat&color=f7428e">

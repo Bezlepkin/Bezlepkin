@@ -17,7 +17,7 @@ I use the following tools: Angular, NativeScript, NodeJs, NestJs, Vue. You can f
 
 
 <!-- icons without padding -->
-[1.1]: https://i.imgur.com/yuWnkMx.png
+[1.1]: https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg
 [1.2]: https://i.imgur.com/nsGBWPV.png
 
 <!-- links to your social media accounts -->
